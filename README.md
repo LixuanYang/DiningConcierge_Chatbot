@@ -3,7 +3,7 @@
 ## About ##
 
 Assignment 1 of the Cloud Computing & Big Data
-class at Columbia University and New York University
+class at Columbia University
 
 Name: Lixuan Yang
 
